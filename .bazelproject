@@ -1,0 +1,12 @@
+directories:
+  src
+
+derive_targets_from_directories: true
+
+targets:
+  //src:core
+
+additional_languages:
+  kotlin
+
+android_sdk_platform: android-23
